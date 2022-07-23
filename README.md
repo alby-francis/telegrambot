@@ -1,5 +1,5 @@
 # telegrambot
-Just Some Telegram Bot Scripts
+Telegram Bot Script
 
 Telegram Bot to request and store user details
 
